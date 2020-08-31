@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/node-v12.9.1-%238bc500" alt="Node" />
 <img src="https://img.shields.io/badge/react-%5E16.13.1-%2300d8ff" alt="React" />
 <img src="https://img.shields.io/badge/typescript-%5E3.7.5-%232d79c7" alt="Typescript" />
-<img src="https://img.shields.io/badge/knex-%5E0.21.1-%23e16426" alt="Knex" />
 </div>
 <h1 align="center">
     TutsTuts
