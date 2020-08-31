@@ -1,0 +1,77 @@
+.page-landing{
+
+}
+header{
+    display: flex;
+    height: 10rem;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-container{
+    height: 6rem;
+    width: 16rem;
+}
+.logo-container img{
+    height: 10rem;
+    width: 100%;
+    margin-top: -2rem;
+    margin-left: 0.8rem;
+}
+.sign-in-button{
+    font-size: 1.6rem;
+    height: 4.0rem;
+    width: 8rem;
+    margin-right: 3.2rem;
+    background: #081960;
+    color: white;
+    border: 0px;
+    border-radius: 0.2rem;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    place-items: center;    
+    justify-content: center;
+}
+.hero{ 
+    width: 100vw;
+    height: 60vh;
+    background-size: cover;
+    
+}
+.blueish{
+    background: rgba(172,80,13,0.5);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.hero-title{
+    color: white;
+    font-size: 3.2rem;
+    padding-top: 3.8rem;
+    padding-right: 3.2rem;
+    padding-left: 3.2rem;
+    text-align: center;
+}
+.hero-description{
+    color: white;
+    font-size: 1.6rem;
+    padding-left: 5.2rem;
+    padding-right: 5.2rem;
+    margin-top: 1.6rem;
+    text-align: center;
+}
+.sign-up-button{
+    background: #081960;
+    height: 5rem;
+    width: 21rem;
+    color: white;
+    border: 0;
+    font-size: 2.6rem;
+    align-self: center;
+    margin-top: 4.2rem;
+    border-radius: 0.5rem;
+}
+
+main{
+    background: white
+}
