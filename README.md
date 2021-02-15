@@ -46,7 +46,7 @@ Em desenvolvimento ...
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 ## :gear: Processo
 ### :zap: Motivação:
-
+Aplicação foi motivada pelo meu gosto musical diferenciado xD. Eu adoro sugerir músicas novas para os meus amigos, e decidi fazer uma aplicação que me permitisse descobrir musicas novas, agregando várias tecnologias.
 ### :wrench: Dificuldades:
 
 ### :bulb: Soluções:
